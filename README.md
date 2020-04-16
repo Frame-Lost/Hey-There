@@ -1,2 +1,2 @@
 # Hey-There
-tutorial repository
+start with mirror, end with hunting.
